@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/shahrukhamd/.gradle/caches/modules-2/files-2.1/com.bluelinelabs/logansquare/1.3.6/2e059622d3d37758b0f8022fd678de02b025cbe8/logansquare-1.3.6.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="2e059622d3d37758b0f8022fd678de02b025cbe8">
+        <dex dex="/Users/shahrukhamd/Development/Android Apps/LoganSquare-Tutorial/app/build/intermediates/pre-dexed/debug/logansquare-1.3.6_2aa7a61ea15f2c24c36f716d19465ddccddf3e65.jar" />
+    </item>
+    <item
+        jar="/Users/shahrukhamd/Development/Android Apps/LoganSquare-Tutorial/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="/Users/shahrukhamd/Development/Android Apps/LoganSquare-Tutorial/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.1.1_7cc3d79e4451b4de5948d8740b265051c72baa54.jar" />
+    </item>
+    <item
+        jar="/Users/shahrukhamd/Development/Android Apps/LoganSquare-Tutorial/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="/Users/shahrukhamd/Development/Android Apps/LoganSquare-Tutorial/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.1.1_27a836ed24278d034b9dfecaeb7ee64e458b6876.jar" />
+    </item>
+    <item
+        jar="/Users/shahrukhamd/Development/Android Apps/LoganSquare-Tutorial/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/Users/shahrukhamd/Development/Android Apps/LoganSquare-Tutorial/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_07056efa0be5cba2e5692a1ff550ddfdf754518c.jar" />
+    </item>
+    <item
+        jar="/Users/shahrukhamd/Development/Android Apps/LoganSquare-Tutorial/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="/Users/shahrukhamd/Development/Android Apps/LoganSquare-Tutorial/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.1.1_ed1dcdba08fb874eb261ef6f078048db0c613f1b.jar" />
+    </item>
+    <item
+        jar="/Users/shahrukhamd/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.5.1/e2a00ad1d7e540ec395e9296a34da484c8888d4d/jackson-core-2.5.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="e2a00ad1d7e540ec395e9296a34da484c8888d4d">
+        <dex dex="/Users/shahrukhamd/Development/Android Apps/LoganSquare-Tutorial/app/build/intermediates/pre-dexed/debug/jackson-core-2.5.1_22b0ff495ef27f7ca900f096b9817300110679d6.jar" />
+    </item>
+    <item
+        jar="/Users/shahrukhamd/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/24.1.1/3af19f153122737b372622fa6c81dd11a1c6b999/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/Users/shahrukhamd/Development/Android Apps/LoganSquare-Tutorial/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_09e2e4977a5da79eddca5ff9b4ee9535d6d71ec4.jar" />
+    </item>
+    <item
+        jar="/Users/shahrukhamd/Development/Android Apps/LoganSquare-Tutorial/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/Users/shahrukhamd/Development/Android Apps/LoganSquare-Tutorial/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_729970d9ee60c888369491a4e9ca845334ed1c51.jar" />
+    </item>
+
+</items>
